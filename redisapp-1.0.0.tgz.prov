@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.0.0
+description: A Helm chart for Kubernetes
+name: redisapp
+type: application
+version: 1.0.0
+
+...
+files:
+  redisapp-1.0.0.tgz: sha256:a6e339efcfb2f07378afe780c82942d5434f57203823aa7c4eec13765cacbcb4
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJmE7ytCRBjkwqtuZJ7VwAArc8MABHuTpBX7uURL+jJPVfCbKLC
+L72VeRsQ2xGIz3hRzphP0tol48ktxOHwisAnzK0dHCarOWL65ucVqNmNhfR/HSu5
+L9pwX0Dqb7tgNcaxz0S25ITePSxmnyphJZLxRhp1yQhw3NOhy1AXi+C1oWf16+MR
+Xywh5pOmuXfqqIN6Imx5smtGqv+KEoo2tdgi+Aqr8juBc5k+0P/T0pijwqSZqm+N
+Je9yyCJD/A1ksz1OoVLiZClqdr0CKIrb8nmm4CnoDTZo22ZeskG8h74QPbyZDtKL
+LIb4mtPvdVTMGQX8Bz4tMrADlWmSpECE/9EaOnpMfUe8KgzFo5ntAmZDZ+U3tTQY
+0VaS1euQM6VslzWGwyrptSv2ogNSVuW3RAnikQfkMi/a9bShejiFUhuegSXk77cb
+X1gVbaSv4xooxNAQJCsdEjRK9x+7i3Vsl+o837afldLx+mTWLhCM5cDR0uEF8i2g
+HSQrbSAiwu+kInMVi9MPwY/MDGqC9lfghf1nyvY24g==
+=rY29
+-----END PGP SIGNATURE-----
